@@ -10,7 +10,7 @@ public class lab7 {
 		}
 	
 	public static void main(String args[]) {
-		Integer [] intArray = {1,2,3,4,5,6,7};
+		Integer [] intArray = {1,2,3,4,5,6,7,8};
 		Double[] doubleArray = {2.2,4.4,6.6,8.8};
 		Character[] charArray = {'R','A','M','E','E','Z'};
 		
